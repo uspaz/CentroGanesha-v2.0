@@ -1,4 +1,4 @@
-import { services } from '../utils/services'
+import { services } from '../../utils/services'
 
 const Services = () => {
   return (

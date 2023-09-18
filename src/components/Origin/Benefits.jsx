@@ -1,8 +1,8 @@
-import { listOfBenefits } from '../utils/benefits'
+import { listOfBenefits } from '../../utils/benefits'
 
 const Benefits = () => {
   return (
-    <div>
+    <div className=''>
       <ul>
         {listOfBenefits.map((benefit) => {
           return (
