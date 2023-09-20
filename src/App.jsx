@@ -15,20 +15,20 @@ function App() {
     <>
       <Header />
       <main className='w-full h-auto text-center'>
-      <Title />
-      <Sections>
-        <Origin />
-      </Sections>
-      <Benefits />
-      <Sections>
-        <AboutMe />
-      </Sections>
-      <Services />
-      <Sections>
-        <Contact />
-      </Sections>
-      <Testimonials />
-      <Footer />
+        <Title />
+        <Sections>
+          <Origin />
+        </Sections>
+        <Benefits />
+        <Sections>
+          <AboutMe />
+        </Sections>
+        <Services />
+        <Sections>
+          <Contact />
+        </Sections>
+        <Testimonials />
+        <Footer />
       </main>
       
     </>
